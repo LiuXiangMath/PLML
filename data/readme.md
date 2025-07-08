@@ -1,1 +1,2 @@
-
+- VLP200.csv is the dataset derived from paper https://arxiv.org/abs/2502.12049
+- VLP706.data is the new curated dataset.
