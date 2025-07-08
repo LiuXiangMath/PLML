@@ -1,5 +1,7 @@
-# PLML
-Persistent Laplacian-based Topological Machine Learning for VLPs
+PLML
+====
+    This manual is for the code implementation of paper 'Persistent Laplacian-based Topological Machine Learning for Predicting the Stoichiometry of Virus-like Particles
+****
 
 # Prerequisites
 - numpy 1.24.3
