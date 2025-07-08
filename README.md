@@ -4,12 +4,13 @@ PLML
 ****
 
 # Prerequisites
-- numpy 1.24.3
-- scipy 1.10.1
-- scikit-learn 1.3.2
-- python 3.10
-- biopython 1.83
+- numpy 
+- scipy 
+- scikit-learn 
+- python 
+- biopython 
 - gudhi
+- pandas
 
 
 # Reproduce our results
