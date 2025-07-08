@@ -14,5 +14,5 @@ PLML
 
 
 # Reproduce our results
- 1. Run get_feature.py script to generate the features
- 2. Run prediction.py to perform the machine learning training and prediction
+ 1. Run ./code/get_feature.py script to generate the features
+ 2. Run ./code/prediction.py to perform the machine learning training and prediction
