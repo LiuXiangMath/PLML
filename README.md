@@ -1,6 +1,6 @@
 PLML
 ====
-    This manual is for the code implementation of paper 'Persistent Laplacian-based Topological Machine Learning for Predicting the Stoichiometry of Virus-like Particles
+    This manual is for the code implementation of paper 'Machine-Learning Prediction of Virus-like Particle Stoichiometry and Stability using Persistent Topological Laplacians'
 ****
 
 # Prerequisites
